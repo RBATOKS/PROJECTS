@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/01/23 08:55:33.282.dfm,C:\temp\TESTE3\Unit1.dfm=C:\Users\rbartoch\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/01/23 08:55:33.282.pas,C:\temp\TESTE3\Unit1.pas=C:\Users\rbartoch\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/23 08:55:34.282.dproj,C:\temp\TESTE3\Project1.dproj=C:\Users\rbartoch\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
